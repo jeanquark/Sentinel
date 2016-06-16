@@ -43,7 +43,7 @@ Nice. You should be good to go. Open your web browser and go to the login page o
 ## Screenshots
 
 ![homepage](https://github.com/jeanquark/sentinel/raw/master/public/homepage.png "Homepage")
-![login](https://github.com/jeanquark/sentinel/raw/master/public/login.png =400 "Login")
+![login](https://github.com/jeanquark/sentinel/raw/master/public/login.png "Login")
 ![alt text](https://github.com/jeanquark/sentinel/raw/master/public/admin.png "Admin")
 
 ### License
