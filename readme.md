@@ -42,9 +42,9 @@ Nice. You should be good to go. Open your web browser and go to the login page o
 
 ## Screenshots
 
-![homepage](https://bitbucket.org/jeanquark/sentinel/raw/master/public/homepage.png "Homepage")
-![login](https://bitbucket.org/jeanquark/sentinel/raw/master/public/login.png =400 "Login")
-![alt text](https://bitbucket.org/jeanquark/sentinel/raw/master/public/admin.png "Admin")
+![homepage](https://github.com/jeanquark/sentinel/raw/master/public/homepage.png "Homepage")
+![login](https://github.com/jeanquark/sentinel/raw/master/public/login.png =400 "Login")
+![alt text](https://github.com/jeanquark/sentinel/raw/master/public/admin.png "Admin")
 
 ### License
 Please refer to [Sentinel 2 The BSD 3-Clause License](https://github.com/cartalyst/sentinel/blob/2.0/LICENSE).
