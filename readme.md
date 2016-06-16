@@ -37,14 +37,15 @@ Nice. You should be good to go. Open your web browser and go to the login page o
 
 ## Features
 
-1. Sign in page
-2. Admin area with users management functionality.
+1. Static blog homepage (frontend theme is bootstrap blog)
+2. Sign in page
+3. Admin area with users management functionality (backend theme is SB Admin).
 
 ## Screenshots
 Homepage:
 ![homepage](https://github.com/jeanquark/sentinel/raw/master/public/homepage.png "Homepage")
 
-Login page:
+Sign in page:
 ![login](https://github.com/jeanquark/sentinel/raw/master/public/login.png "Login")
 
 Admin area:
