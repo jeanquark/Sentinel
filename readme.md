@@ -37,9 +37,9 @@ Nice. You should be good to go. Open your web browser and go to the login page o
 
 ## Features
 
-1. Static blog homepage (frontend theme is bootstrap blog)
+1. Static blog homepage (frontend theme is [bootstrap blog](http://startbootstrap.com/template-overviews/blog-home/))
 2. Sign in page
-3. Admin area with users management functionality (backend theme is SB Admin).
+3. Admin area with users management functionality (backend theme is [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/))
 
 ## Screenshots
 Homepage:
