@@ -41,9 +41,13 @@ Nice. You should be good to go. Open your web browser and go to the login page o
 2. Admin area with users management functionality.
 
 ## Screenshots
-
+Homepage:
 ![homepage](https://github.com/jeanquark/sentinel/raw/master/public/homepage.png "Homepage")
+
+Login page:
 ![login](https://github.com/jeanquark/sentinel/raw/master/public/login.png "Login")
+
+Admin area:
 ![alt text](https://github.com/jeanquark/sentinel/raw/master/public/admin.png "Admin")
 
 ### License
