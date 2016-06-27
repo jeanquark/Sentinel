@@ -8,7 +8,7 @@ Make sure you have a running web server on your computer (for example xampp). Op
 
 First clone the repo
 ```
-git clone https://jeanquark@bitbucket.org/jeanquark/sentinel.git
+git clone https://github.com/jeanquark/sentinel.git
 ```
 
 Install all dependencies
@@ -37,14 +37,19 @@ Nice. You should be good to go. Open your web browser and go to the login page o
 
 ## Features
 
-1. Sign in page
-2. Admin area with users management functionality.
+1. Static blog homepage (frontend theme is [bootstrap blog](http://startbootstrap.com/template-overviews/blog-home/))
+2. Sign in page
+3. Admin area with users management functionality (backend theme is [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/))
 
 ## Screenshots
+Homepage:
+![homepage](https://github.com/jeanquark/sentinel/raw/master/public/homepage.png "Homepage")
 
-![homepage](https://bitbucket.org/jeanquark/sentinel/raw/master/public/homepage.png "Homepage")
-![login](https://bitbucket.org/jeanquark/sentinel/raw/master/public/login.png =400 "Login")
-![alt text](https://bitbucket.org/jeanquark/sentinel/raw/master/public/admin.png "Admin")
+Sign in page:
+![login](https://github.com/jeanquark/sentinel/raw/master/public/login.png "Login")
+
+Admin area:
+![alt text](https://github.com/jeanquark/sentinel/raw/master/public/admin.png "Admin")
 
 ### License
 Please refer to [Sentinel 2 The BSD 3-Clause License](https://github.com/cartalyst/sentinel/blob/2.0/LICENSE).
