@@ -16,11 +16,6 @@ Install all dependencies
 composer install
 ```
 
-Generate application key 
-```
-php artisan key:generate
-```
-
 Create a database that will hold sentinel tables. You can do so with phpmyadmin.
 Open the .env.example file, edit it to match your database name, username and password and save it as .env file. Then build tables with command
 
@@ -31,6 +26,11 @@ php artisan migrate
 Now fill the tables
 ```
 php artisan db:seed
+```
+
+Generate application key 
+```
+php artisan key:generate
 ```
 
 Nice. You should be good to go. Open your web browser and go to the login page of the application project (if you followed above-mentioned directives with xampp, path is: http://localhost/sentinel/public/login). Enter provided admin credentials and start managing users from the admin area.
